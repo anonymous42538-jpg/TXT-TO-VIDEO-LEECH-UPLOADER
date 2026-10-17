@@ -4,7 +4,7 @@ from os import environ
 
 API_ID = int(environ.get("API_ID", "39992456"))
 API_HASH = environ.get("API_HASH", "029cfb9784f4b9f25b55f30db06a271a")
-BOT_TOKEN = environ.get("BOT_TOKEN", "")
+BOT_TOKEN = environ.get("BOT_TOKEN", "8998143459:AAHLs5LaM2QHGgvxWjSjjp2l_wVDnh3tgTs")
 
 # Force Subscribe Configuration
 FORCE_SUB_CHANNEL = environ.get("FORCE_SUB_CHANNEL", "bot_subscription")  # Channel username without @, 
